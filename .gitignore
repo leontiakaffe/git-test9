@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+.idea/
+GitTest9.iml
+**/*.log
+
+
+
+
+### Mac OS ###
+.DS_Store
